@@ -1,2 +1,0 @@
-# sd
-Created with CodeSandbox
